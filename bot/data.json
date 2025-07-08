@@ -1,0 +1,98 @@
+{
+    "start": "Assalomu aleykum Siz Sartaroshuzga xush kelibsiz\nHello Welcom to Haircutuz\nздраствуйте добро пажаловать в стришка уз",
+    "\uD83C\uDDFA\uD83C\uDDFF uz":{
+        "message_text":{
+          "contact":"Iltimos telefon raqamingizni kiriting:\nMisol uchun - +998991234567",
+          "user_info": "Iltimos Ismingizni kiriting:",
+          "error_phone": "Iltimos telefon raqamni to'g'ri kiriting\nMisol uchun - +998991234567",
+          "error_name": "Iltimos isimni to'g'ri kiriting\nMisol uchun - Ismoil",
+          "show_info": "Ma'lumotlarni tasdiqlash uchun tugmalardan birini bosing\n ",
+          "phone": "Telefon raqamingiz: ",
+          "name": "Sizning ismingiz: ",
+          "conf_text": "Ma'lumotlaringiz tasdiqlandi",
+          "400": "Bunday foydalanuvchi avval ro'yhatdan o'tgan",
+          "main_menu_text": "Tugmalardan birini tanlang"
+
+        },
+        "buttons": {
+          "contact":"📞 Contactni jo'natish",
+          "back": "⬅\uFE0F Orqaga",
+          "confirm": "✅ Tasdiqlash",
+          "rejected": "❌ Bekor qilish",
+          "menu_btn1": "\uD83D\uDC87\u200D♂\uFE0F Sartaroshga yozilish",
+          "menu_btn2": "\uD83D\uDCCD Lokatsiya",
+          "menu_btn3": "ℹ\uFE0F Sartarosh haqida",
+          "menu_btn4": "☎\uFE0F Bog'lanish",
+          "language": "\uD83C\uDF0D Tilni o'zgartirish",
+          "admin_menu1": "\uD83D\uDE4D\uD83C\uDFFB\u200D♂\uFE0F Mijozlar",
+          "admin_menu2": "❌ Buyurtmani bekor qilish",
+          "admin_menu3": "\uD83D\uDCCA Analitika",
+          "admin_menu4": "\uD83C\uDF0D Tilni o'zgartirish"
+        }
+    },
+
+    "\uD83C\uDDFA\uD83C\uDDF8 eng":{
+      "message_text": {
+        "contact":"Please enter phone number:\n For example - +998991234567",
+        "user_info": "Please enter Your name:",
+        "error_phone": "Please enter valid phone number\nFor example - +998991234567",
+        "error_name": "Please enter correct name\nFor example - Ismoil",
+        "show_info": "Click one of the buttons to confirm the data\n ",
+        "phone": "Your phone number: ",
+        "name": "Your name: ",
+        "conf_text": "Your data has been confirmed",
+        "400": "This user is already registered",
+        "main_menu_text": "Choose one of the buttons"
+
+
+      },
+      "buttons": {
+          "contact":"\uD83D\uDCDE Share Contact",
+          "back": "⬅\uFE0F back",
+          "confirm": "✅ Confirm",
+          "rejected": "❌ Cancel",
+        "menu_btn1": "\uD83D\uDC87\u200D♂\uFE0F Book a barber appointment",
+          "menu_btn2": "\uD83D\uDCCD Location",
+          "menu_btn3": "ℹ\uFE0F About the barber",
+          "menu_btn4": "☎\uFE0F Contact",
+          "language": "\uD83C\uDF0D Change language",
+          "admin_menu1": "\uD83D\uDE4D\uD83C\uDFFB\u200D♂\uFE0F Clients",
+          "admin_menu2": "❌ Cancel order",
+          "admin_menu3": "\uD83D\uDCCA Analytics",
+          "admin_menu4": "\uD83C\uDF0D Change language"
+
+        }
+    },
+
+    "\uD83C\uDDF7\uD83C\uDDFA ru":{
+      "message_text":{
+        "contact":"Пожалуйста введите телефон номер: \n Пример - +998991234567",
+        "user_info": "Пожалуйста введите своё имя:",
+        "error_phone": "Пожалуйста введите корректный номер телефона\nПример - +998991234567",
+        "error_name": "Пожалуйста введите корректое имя\nПример - Иван Иванов",
+        "show_info": "Нажмите одну из кнопок для подтверждения данных\n ",
+        "phone": "Ваш телефон номер: ",
+        "name": "Ваше имя: ",
+        "conf_text": "Ваши данные подтверждены",
+        "400": "Такой пользователь уже зарегистрирован",
+        "main_menu_text": "Выберите одну из кнопок"
+
+      },
+      "buttons": {
+          "contact":"\uD83D\uDCDE Поделиться контактом",
+          "back": "⬅\uFE0F Назад",
+          "confirm": "✅ Потвердить",
+          "rejected": "❌ Отмена",
+        "menu_btn1": "\uD83D\uDC87\u200D♂\uFE0F Записаться к парикмахеру",
+          "menu_btn2": "\uD83D\uDCCD Локация",
+          "menu_btn3": "ℹ\uFE0F О парикмахере",
+          "menu_btn4": "☎\uFE0F Связаться",
+          "language": "\uD83C\uDF0D Поменять язык",
+          "admin_menu1": "\uD83D\uDE4D\uD83C\uDFFB\u200D♂\uFE0F Клиенты",
+          "admin_menu2": "❌ Отменить заказ",
+          "admin_menu3": "\uD83D\uDCCA Аналитика",
+          "admin_menu4": "\uD83C\uDF0D Изменить язык"
+
+        }
+    }
+}
