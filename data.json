@@ -1,0 +1,134 @@
+{
+    "start": "Assalomu aleykum Siz Sartaroshuzga xush kelibsiz\nHello Welcom to Haircutuz\nздраствуйте добро пажаловать в стришка уз",
+    "\uD83C\uDDFA\uD83C\uDDFF uz":{
+        "message_text":{
+          "contact":"Iltimos telefon raqamingizni kiriting:\nMisol uchun - +998991234567",
+          "error_phone": "Iltimos telefon raqamni to'g'ri kiriting\nMisol uchun - +998991234567",
+          "user_info": "Iltimos Ismingizni kiriting:",
+          "error_name": "Iltimos isimni to'g'ri kiriting\nMisol uchun - Ismoil",
+          "show_info": "Ma'lumotlarni tasdiqlash uchun tugmalardan birini bosing\n",
+          "phone": "Telefon raqamingiz: ",
+          "name": "Sizning ismingiz: ",
+          "main_menu_text": "Tugmalardan birini tanlang",
+          "change_language": "O'zgartirmoqchi bo'lgan tilingizni tanlang",
+          "location": "Salonga tashrif buyurishingiz uchun manliz.",
+          "barber_info": "Men bilan bog'lanish uchun telefon raqam: \n\uD83D\uDCDE +998991234567",
+          "book_barber": "Qaysi kunga yozilishni istaysiz tugmalardan birini tanlang.",
+          "today_book": "Qaysi vaqtga yozilmoqchisiz?\n\uD83D\uDDD3 Vaqtlardan birini tanlang",
+          "conf_time": "Tanlangan vaqtni tasdiqlaysizmi ?",
+          "booked_user": "Siz ⏱️ {time} ga yozildingiz\nSizni salonimizda kutib qolamiz.",
+          "noorders": "Sizda buyurtmalar yo'q",
+          "all_time_booked": "Sizning barcha buyurtmalaringiz ro‘yxati",
+          "history": "Bu yerda siz buyurtmalaringiz tarixini ko'rishingiz mumkin\uD83D\uDE0A",
+          "noorder_user": "Sizda buyurtmalar yo'q",
+          "choose_time_cancel": "Bekor qilmoqchi bo'lgan vaqtingizni tanlang",
+          "description_cancel": "Iltimos nima sababdan bekor qilayotganingizni sababin yozing:"
+        },
+        "buttons": {
+          "language": "\uD83C\uDDFA\uD83C\uDDFF uz",
+          "contact":"📞 Contactni jo'natish",
+          "confirm": "✅ Tasdiqlash",
+          "rejected": "❌ Bekor qilish",
+          "booking": "\uD83D\uDC87\u200D♂\uFE0F Sartaroshga yozilish",
+          "location": "\uD83D\uDCCD Lokatsiya",
+          "contactwithbarber": "☎\uFE0F   Bog'lanish",
+          "change_language": "\uD83C\uDF0D Tilni o'zgartirish",
+          "lang":"\uD83C\uDDFA\uD83C\uDDFF uz",
+          "back": "⬅\uFE0F Orqaga",
+          "today":"\uD83D\uDDD3 Bugunga yozilish",
+          "another_day":"\uD83D\uDCC6 Boshqa kunga yozilish",
+          "myorders": "\uD83D\uDD16 Mening buyurtmalarim",
+          "history_btn": "\uD83D\uDD70\uFE0F Buyurtmalar tarixi",
+          "cancel_booking": "❌ Buyurtmani bekor qilish"
+        }
+    },
+
+    "\uD83C\uDDFA\uD83C\uDDF8 eng":{
+      "message_text": {
+        "contact":"Please enter phone number:\n For example - +998991234567",
+        "error_phone": "Please enter valid phone number\nFor example - +998991234567",
+        "user_info": "Please enter Your name:",
+        "error_name": "Please enter correct name\nFor example - Ismoil",
+        "show_info": "Click one of the buttons to confirm the data\n",
+        "phone": "Your phone number: ",
+        "name": "Your name: ",
+        "main_menu_text": "Please choose one of the buttons",
+        "change_language": "Choose the language you want to switch to",
+        "location": "The address for visiting the salon.",
+        "barber_info": "You can contact me by phone: \n📞 +998991234567",
+        "book_barber": "Which day would you like to book? Please choose one of the options below.",
+        "today_book": "What time would you like to book?\n\uD83D\uDDD3 Please choose one of the available time slots",
+        "conf_time": "Do you confirm the selected time?",
+        "booked_user": "You are booked for ⏱️ {time}\nWe look forward to seeing you at our salon.",
+        "noorders": "You don't have any orders",
+        "all_time_booked": "Your full booking history",
+        "history": "Here you can view your order history😊",
+        "noorder_user": "You don't have any orders",
+        "choose_time_cancel": "Please choose the time you want to cancel",
+        "description_cancel": "Please write the reason for the cancellation:"
+
+      },
+      "buttons": {
+          "language": "\uD83C\uDDF7\uD83C\uDDFA ru",
+          "contact":"\uD83D\uDCDE Share Contact",
+          "confirm": "✅ Confirm",
+          "rejected": "❌ Cancel",
+          "booking": "\uD83D\uDC87\u200D♂\uFE0F Book a barber appointment",
+          "location": "\uD83D\uDCCD Location",
+          "contactwithbarber": "☎\uFE0F   Contact",
+          "change_language": "\uD83C\uDF0D Change language",
+          "lang":"\uD83C\uDDFA\uD83C\uDDF8 eng",
+          "back": "⬅\uFE0F back",
+          "today": "\uD83D\uDDD3 Book for today",
+          "another_day": "📆 Book for another day",
+          "myorders": "\uD83D\uDD16 My booking history",
+          "history_btn": "\uD83D\uDD70\uFE0F Booking history",
+          "cancel_booking": "❌ Cancel booking"
+      }
+    },
+
+    "\uD83C\uDDF7\uD83C\uDDFA ru":{
+      "message_text":{
+        "contact":"Пожалуйста введите телефон номер: \n Пример - +998991234567",
+        "error_phone": "Пожалуйста введите корректный номер телефона\nПример - +998991234567",
+        "user_info": "Пожалуйста введите своё имя:",
+        "error_name": "Пожалуйста введите корректое имя\nПример - Исмаил",
+        "show_info": "Нажмите одну из кнопок для подтверждения данных\n",
+        "phone": "Ваш телефон номер: ",
+        "name": "Ваше имя: ",
+        "main_menu_text": "Выберите одну из кнопок",
+        "change_language": "Выберите язык, на который хотите переключиться",
+        "location": "Адрес, по которому вы можете посетить салон.",
+        "barber_info": "Связаться со мной можно по телефону: \n📞 +998991234567",
+        "book_barber": "На какой день вы хотите записаться? Пожалуйста, выберите один из вариантов ниже.",
+        "today_book": "На какое время вы хотите записаться?\n\uD83D\uDDD3 Пожалуйста, выберите одно из доступных времён",
+        "conf_time": "Вы подтверждаете выбранное время?",
+        "booked_user": "Вы записаны на ⏱️ {time}\nБудем рады видеть вас в нашем салоне.",
+        "noorders": "У вас еще нету заказов",
+        "all_time_booked": "Список всех ваших бронирований",
+        "history": "Здесь вы можете просмотреть историю своих заказов😊",
+        "noorder_user": "У вас нет заказов",
+        "choose_time_cancel": "Пожалуйста, выберите время, которое вы хотите отменить",
+        "description_cancel": "Пожалуйста, напишите причину отмены:"
+
+
+      },
+      "buttons": {
+          "language": "\uD83C\uDDFA\uD83C\uDDF8 eng",
+          "contact":"\uD83D\uDCDE Поделиться контактом",
+          "confirm": "✅ Потвердить",
+          "rejected": "❌ Отмена",
+          "booking": "\uD83D\uDC87\u200D♂\uFE0F Записаться к парикмахеру",
+          "location": "\uD83D\uDCCD Локация",
+          "contactwithbarber": "☎\uFE0F   Связаться",
+          "change_language": "\uD83C\uDF0D Поменять язык",
+          "lang":"\uD83C\uDDF7\uD83C\uDDFA ru",
+          "back": "⬅\uFE0F Назад",
+          "today": "\uD83D\uDDD3 Записаться на сегодня",
+          "another_day": "\uD83D\uDCC6 Записаться на другой день",
+          "myorders": "\uD83D\uDD16 Истори заказов",
+          "history_btn": "\uD83D\uDD70\uFE0F История заказов",
+          "cancel_booking": "❌ Отменить бронь"
+      }
+    }
+}
